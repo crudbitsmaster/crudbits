@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap");
+html {
+  scroll-behavior: smooth;
+}
+* {
+  font-family: "Oswald", sans-serif;
+  word-spacing: 5px;
+  font-style: normal;
+  letter-spacing: 0.5px;
+}
+h1,
+h2,
+h3 {
+  letter-spacing: 1px;
+}
+::-moz-selection {
+  color: #f1f5f9;
+  background: #475569;
+}
+
+::selection {
+  color: #f1f5f9;
+  background: #475569;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(216, 216, 216);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: gray;
+}
+.ab-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+div {
+  overflow-x: hidden;
+}
+
+.loader {
+  border: 8px solid #f3f3f3; /* Light grey */
+  border-top: 8px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.h2-style {
+  color: #475569;
+  display: inline-block;
+  position: relative;
+}
+.h2-style::before {
+  content: "";
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  width: 70%;
+  height: 4px;
+  background: #e2e8f0;
+  border-radius: 20px;
+}
