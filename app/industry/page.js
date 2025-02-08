@@ -7,19 +7,19 @@ const Page = () => {
   const data = [
     {
       title: "Diverse Engagement Types",
-      description: "FHIRGo has experience across a wide range of engagement types, suggesting versatility in its services, including consulting, development, integration, and support tailored to unique client needs in various industry domains."
+      description: "CRUDBits has experience across a wide range of engagement types, suggesting versatility in its services, including consulting, development, integration, and support tailored to unique client needs in various industry domains."
     },
     {
       title: "Industry Domain Expertise",
-      description: "FHIRGo provides support across multiple industry domains, indicating a broad understanding of diverse business environments and challenges, beyond any single sector."
+      description: "CRUDBits provides support across multiple industry domains, indicating a broad understanding of diverse business environments and challenges, beyond any single sector."
     },
     {
       title: "Recognition of FHIR Importance",
-      description: "FHIRGo recognizes the significance of the Fast Healthcare Interoperability Resources (FHIR) standard, aligning with the industry's push for interoperability and standardized healthcare data exchange."
+      description: "CRUDBits recognizes the significance of the Fast Healthcare Interoperability Resources (FHIR) standard, aligning with the industry's push for interoperability and standardized healthcare data exchange."
     },
     {
       title: "Investment in FHIR Standard Product",
-      description: "FHIRGo has invested in developing a product based on the FHIR HL7 standard, showcasing a proactive approach to creating solutions that adhere to industry standards, potentially providing clients with interoperable products."
+      description: "CRUDBits has invested in developing a product based on the FHIR HL7 standard, showcasing a proactive approach to creating solutions that adhere to industry standards, potentially providing clients with interoperable products."
     },
     {
       title: "Independent FHIR Services Entity",
@@ -27,11 +27,11 @@ const Page = () => {
     },
     {
       title: "Comprehensive FHIR Services",
-      description: "FHIRGo offers a comprehensive range of FHIR services, including implementation, integration, and support, addressing healthcare data interoperability and application development."
+      description: "CRUDBits offers a comprehensive range of FHIR services, including implementation, integration, and support, addressing healthcare data interoperability and application development."
     },
     {
       title: "Tailored for HL7 FHIR",
-      description: "FHIRGo's specialized process is designed specifically for HL7 FHIR, reflecting a deep understanding of this healthcare interoperability standard and enabling the creation of aligned solutions."
+      description: "CRUDBits's specialized process is designed specifically for HL7 FHIR, reflecting a deep understanding of this healthcare interoperability standard and enabling the creation of aligned solutions."
     },
     {
       title: "Efficiency and Precision",
@@ -39,11 +39,11 @@ const Page = () => {
     },
     {
       title: "Industry Standards Adherence",
-      description: "Specializing in HL7 FHIR, FHIRGo emphasizes adherence to industry standards, which is crucial for data accuracy, security, and interoperability in healthcare."
+      description: "Specializing in HL7 CRUDBits emphasizes adherence to industry standards, which is crucial for data accuracy, security, and interoperability in healthcare."
     },
     {
       title: "Innovation Integration",
-      description: "The uniqueness of FHIRGo's process allows for the integration of innovative technologies and methodologies, enhancing their FHIR-related solutions."
+      description: "The uniqueness of CRUDBits's process allows for the integration of innovative technologies and methodologies, enhancing their FHIR-related solutions."
     },
     {
       title: "Custom Solutions",
@@ -51,7 +51,7 @@ const Page = () => {
     },
     {
       title: "Domain-Specific Knowledge",
-      description: "FHIRGo's specialization in HL7 FHIR indicates deep domain-specific knowledge, ensuring solutions are not only technically sound but also contextually relevant to healthcare workflows."
+      description: "CRUDBits's specialization in HL7 FHIR indicates deep domain-specific knowledge, ensuring solutions are not only technically sound but also contextually relevant to healthcare workflows."
     }
   ];
   useEffect(() => {
@@ -74,7 +74,7 @@ const Page = () => {
               Industry
             </h1>
             <p className="text-md text-center">
-              FHIRGo is a versatile provider of healthcare interoperability solutions, specializing in the Fast Healthcare Interoperability Resources (FHIR) standard. With extensive experience across various engagement types, including consulting and integration, FHIRGo tailors its services to meet unique client needs across multiple industry domains. The company emphasizes adherence to industry standards, ensuring data accuracy and security.
+              CRUDBits is a versatile provider of healthcare interoperability solutions, specializing in the Fast Healthcare Interoperability Resources (FHIR) standard. With extensive experience across various engagement types, including consulting and integration, CRRUDBits tailors its services to meet unique client needs across multiple industry domains. The company emphasizes adherence to industry standards, ensuring data accuracy and security.
             </p>
           </div>
         </div>
