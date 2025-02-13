@@ -12,7 +12,7 @@ const Contact = () => {
   return (
     <div>
       <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.1675211951597!2d-106.95956382146196!3d44.79777451373382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5335fabc2a655555%3A0xc8c9628401afe29a!2sFHIRGo!5e0!3m2!1sen!2s!4v1729869651641!5m2!1sen!2s"
+        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d45298.684667677975!2d-106.954903!3d44.797769!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5335fabc2a6d206b%3A0x1887ab0668b2495c!2s30%20N%20Gould%20St%20Suite%20R%2C%20Sheridan%2C%20WY%2082801!5e0!3m2!1sen!2sus!4v1739486744587!5m2!1sen!2sus"
         width={iframeWidth}
         height="450"
         allowFullScreen
